@@ -1,3 +1,7 @@
+name: Walking-and-Cycling
+channels:
+  - conda-forge
+dependencies:
 geopandas == 0.3.0
 matplotlib == 3.4.2
 networkx == 2.2
