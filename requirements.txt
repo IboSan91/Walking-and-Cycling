@@ -1,3 +1,6 @@
+Cython == 0.15.1
+proj == 4.9.0
+numpy==1.20.2
 geopandas == 0.3.0
 matplotlib == 3.4.2
 networkx == 2.2
